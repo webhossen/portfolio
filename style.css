@@ -535,4 +535,3 @@ img { max-width: 100%; height: auto; display: block; object-fit: cover; }
 @media screen and (min-width: 1024px) {
     .bd-grid { margin-left: auto; margin-right: auto; }
 }
-
