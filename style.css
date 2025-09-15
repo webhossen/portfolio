@@ -338,7 +338,7 @@ img { max-width: 100%; height: auto; display: block; object-fit: cover; }
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
-  margin: 10px;
+  margin: 100px;
   padding: 0;
 }
 
@@ -535,3 +535,4 @@ img { max-width: 100%; height: auto; display: block; object-fit: cover; }
 @media screen and (min-width: 1024px) {
     .bd-grid { margin-left: auto; margin-right: auto; }
 }
+
